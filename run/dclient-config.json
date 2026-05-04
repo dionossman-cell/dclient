@@ -1,0 +1,582 @@
+{
+  "Auto Totem": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Delay (ticks)": "0"
+    }
+  },
+  "Hover Totem": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Tick Delay": "0",
+      "Hotbar Totem": "true",
+      "Hotbar Slot": "1"
+    }
+  },
+  "Auto Inv Totem": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {}
+  },
+  "Anchor Macro": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Switch Delay": "0",
+      "Glowstone Delay": "0",
+      "Explode Delay": "0",
+      "Totem Slot": "1"
+    }
+  },
+  "Auto Crystal": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Place Range": "5.0",
+      "Attack Range": "5.0",
+      "Delay (ms)": "100"
+    }
+  },
+  "Double Anchor": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Activate Key": "86",
+      "Switch Delay": "2",
+      "Totem Slot": "1"
+    }
+  },
+  "Crystal Optimizer": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Min Damage": "6.0",
+      "Max Self Damage": "4.0"
+    }
+  },
+  "TriggerBot": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Require Full Charge": "true",
+      "Attack Players": "false",
+      "Attack Mobs": "true",
+      "Range": "3.5"
+    }
+  },
+  "Aim Assist": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Range": "5.0",
+      "FOV": "360.0",
+      "Players": "true",
+      "Mobs": "false",
+      "Ignore Walls": "false",
+      "Aim Head": "false",
+      "Instant": "false",
+      "Speed": "5.0",
+      "Randomize": "true",
+      "Noise": "0.5",
+      "Max Delta": "2.5"
+    }
+  },
+  "Anti Trap": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Notifications": "true",
+      "Armor Stands": "true",
+      "Chest Minecarts": "true"
+    }
+  },
+  "Breach Swap": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Auto Find Breach": "true",
+      "Target Slot": "1",
+      "Swap Back": "true",
+      "Swap Back Delay": "8"
+    }
+  },
+  "Fast Place": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Delay": "0"
+    }
+  },
+  "SwingSpeed": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Speed": "6.0"
+    }
+  },
+  "Freecam": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Speed": "0.3",
+      "Sprint Multiplier": "3.0"
+    }
+  },
+  "Auto Tool": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {}
+  },
+  "Chat Macro": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Message": "Hello from DClient!"
+    }
+  },
+  "Spotify HUD": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Pos X": "10",
+      "Pos Y": "10"
+    }
+  },
+  "Name Protect": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Fake Name": "dclient-user",
+      "Name Protect": "true"
+    }
+  },
+  "Chunk Finder": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Rotated Deepslate": "true",
+      "Cobbled Deepslate": "true",
+      "End Stone": "true",
+      "Diorite Vein": "true",
+      "Obsidian Vein": "true",
+      "Long Dripstone": "true",
+      "Long Vines": "true",
+      "Full Kelp": "true",
+      "Ignore Exposed": "true",
+      "Ignore Trial Chambers": "true",
+      "Rotated Min": "3",
+      "Cobbled Min": "4",
+      "EndStone Min": "2",
+      "Trial Min": "50",
+      "Render Y": "64.0",
+      "Highlight Blocks": "true",
+      "Sound Alert": "true"
+    }
+  },
+  "Base ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Min Storage Count": "4",
+      "Min Distance": "0",
+      "Critical Spawner": "true",
+      "Chat Notify": "true",
+      "Sound Alert": "true",
+      "Disconnect On Find": "false",
+      "Chests": "true",
+      "Barrels": "true",
+      "Shulkers": "true",
+      "Furnaces": "true",
+      "Hoppers": "true",
+      "Spawners": "true",
+      "Webhook": "false",
+      "Webhook URL": "",
+      "Self Ping": "false",
+      "Discord ID": ""
+    }
+  },
+  "Growth Finder": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Vines": "true",
+      "Dripstone": "true",
+      "Berries": "true",
+      "Gray Chunks": "true",
+      "Alpha": "0.6",
+      "Render Y": "64.0"
+    }
+  },
+  "Kelp ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Chat Feedback": "true",
+      "Red": "0.0",
+      "Green": "1.0",
+      "Blue": "0.0",
+      "Alpha": "0.7"
+    }
+  },
+  "Player Detect": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Totem Pops": "true",
+      "Ignore Own Totem": "false",
+      "Totem Distance": "50",
+      "Visual Range": "true",
+      "Visual Sound": "true",
+      "Pearl Tracking": "true",
+      "Join/Leave": "true"
+    }
+  },
+  "Light Debug": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Chunk Radius": "4",
+      "Min Y": "-64",
+      "Max Y": "100",
+      "Min Light": "8",
+      "Max Distance": "128",
+      "Only Source Blocks": "true",
+      "Filter Natural": "false",
+      "Torches": "true",
+      "Glowstone": "true",
+      "Redstone": "true",
+      "Beacons": "true",
+      "Thermal Colors": "true",
+      "Custom R": "1.0",
+      "Custom G": "1.0",
+      "Custom B": "0.0"
+    }
+  },
+  "Fake Stats": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Title": "dclient",
+      "Money": "67",
+      "Shards": "67",
+      "Kills": "67",
+      "Deaths": "67",
+      "Playtime": "6h 7m",
+      "Team": "dclient",
+      "Footer": "play.server.net"
+    }
+  },
+  "AH Sniper": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Item Name": "",
+      "Max Price": "1k",
+      "Min Price": "0",
+      "Per Item (not stack)": "false",
+      "Auto Confirm": "true",
+      "Notifications": "true",
+      "Sound Alert": "true",
+      "Top Left Only": "false",
+      "Webhook": "false",
+      "Webhook URL": "",
+      "Self Ping": "false",
+      "Discord ID": ""
+    }
+  },
+  "Region Map": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Position X": "4",
+      "Position Y": "-1",
+      "Cell Size": "16",
+      "Show Coords": "true",
+      "Show Grid": "true",
+      "Show Player": "true",
+      "Show Legend": "true"
+    }
+  },
+  "Amethyst Debug": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Small Buds": "true",
+      "Medium Buds": "true",
+      "Large Buds": "true",
+      "Clusters": "true",
+      "Min Y": "-64",
+      "Max Y": "128",
+      "Red": "0.58",
+      "Green": "0.0",
+      "Blue": "0.83",
+      "Tracers": "false",
+      "Chat Feedback": "true"
+    }
+  },
+  "Sus ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Bee Hives": "true",
+      "Wandering Trader": "true",
+      "Trader Llama": "true",
+      "Pillager": "true",
+      "Skeleton Horse": "true",
+      "Rotated Deepslate": "true",
+      "Kelp Chunks": "true",
+      "Tracers": "true",
+      "Render Y": "64.0"
+    }
+  },
+  "BlockNotifier": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Spawners": "true",
+      "Chests": "false",
+      "Obsidian": "false",
+      "Bedrock": "false",
+      "Ancient Debris": "false",
+      "Diamond Ore": "false",
+      "Chat Notify": "true",
+      "Disconnect On Find": "false",
+      "Webhook": "false",
+      "Webhook URL": "",
+      "Self Ping": "false",
+      "Discord ID": "",
+      "Show ESP": "true",
+      "Tracers": "true",
+      "Red": "1.0",
+      "Green": "0.0",
+      "Blue": "1.0",
+      "Render Distance": "3000.0"
+    }
+  },
+  "HUD": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Client Tag": "true",
+      "Ping": "true",
+      "Totems": "true",
+      "Time": "true",
+      "Coords": "true",
+      "FPS": "false",
+      "TPS": "false",
+      "Active Modules": "true",
+      "HUD X": "4",
+      "HUD Y": "4",
+      "Color Mode": "Rainbow",
+      "Color Speed": "1.0"
+    }
+  },
+  "FullBright": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {}
+  },
+  "Player ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Red": "1.0",
+      "Green": "0.0",
+      "Blue": "0.0",
+      "Alpha": "1.0",
+      "Mode": "0",
+      "Tracers": "false",
+      "Range": "3000"
+    }
+  },
+  "Mob ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Red": "1.0",
+      "Green": "0.5",
+      "Blue": "0.0",
+      "Alpha": "1.0",
+      "Hostile Only": "false",
+      "Mode": "0",
+      "Tracers": "false",
+      "Range": "3000"
+    }
+  },
+  "Storage ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Range": "128",
+      "Mode": "0",
+      "Tracers": "false",
+      "Chest R": "1.0",
+      "Chest G": "0.8",
+      "Chest B": "0.0",
+      "Shulker R": "0.6",
+      "Shulker G": "0.0",
+      "Shulker B": "1.0",
+      "Barrel R": "0.6",
+      "Barrel G": "0.4",
+      "Barrel B": "0.2",
+      "Ender Chest R": "0.3",
+      "Ender Chest G": "0.0",
+      "Ender Chest B": "0.8",
+      "Spawner R": "1.0",
+      "Spawner G": "0.0",
+      "Spawner B": "0.0"
+    }
+  },
+  "Block ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Range": "64",
+      "Mode": "0",
+      "Tracers": "false"
+    },
+    "enabledBlocks": []
+  },
+  "Hole ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Range": "64",
+      "Min Hole Depth": "4",
+      "Min Tunnel Length": "3",
+      "Min Tunnel Height": "2",
+      "Max Tunnel Height": "3",
+      "Min Stair Length": "3",
+      "Holes": "true",
+      "3x1 Holes": "true",
+      "Tunnels": "true",
+      "Staircases": "true",
+      "Air Only": "false",
+      "Hole R": "0.0",
+      "Hole G": "1.0",
+      "Hole B": "0.0",
+      "3x1 R": "1.0",
+      "3x1 G": "0.65",
+      "3x1 B": "0.0",
+      "Tunnel R": "0.0",
+      "Tunnel G": "0.0",
+      "Tunnel B": "1.0",
+      "Stair R": "1.0",
+      "Stair G": "0.0",
+      "Stair B": "1.0"
+    }
+  },
+  "Free Look": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Mode (0\u003dPlayer 1\u003dCamera)": "0",
+      "Toggle Perspective": "true",
+      "Arrow Keys": "true",
+      "Arrow Speed": "4.0"
+    }
+  },
+  "Wall Hack": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Opacity": "50",
+      "Players": "true",
+      "Mobs": "true"
+    },
+    "targetBlocks": [
+      "Stone",
+      "Deepslate",
+      "Cobblestone",
+      "Dirt",
+      "Netherrack",
+      "Obsidian"
+    ]
+  },
+  "Nametags": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Health": "true",
+      "Ping": "true",
+      "Held Item": "true",
+      "Range": "500"
+    }
+  },
+  "Trident ESP": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Red": "0.2",
+      "Green": "1.0",
+      "Blue": "0.4",
+      "Alpha": "0.9",
+      "Mode": "0",
+      "Tracers": "true",
+      "Thrown": "true",
+      "Range": "3000"
+    }
+  },
+  "Target HUD": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {}
+  },
+  "Target Block HUD": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {}
+  },
+  "Hand View": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Main X": "0.0",
+      "Main Y": "0.0",
+      "Main Z": "0.0",
+      "Main Rot X": "0.0",
+      "Main Rot Y": "0.0",
+      "Main Rot Z": "0.0",
+      "Main Scale": "1.0",
+      "Off X": "0.0",
+      "Off Y": "0.0",
+      "Off Z": "0.0",
+      "Off Rot X": "0.0",
+      "Off Rot Y": "0.0",
+      "Off Rot Z": "0.0",
+      "Off Scale": "1.0"
+    }
+  },
+  "dclient+": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Optimize Ticks": "true",
+      "GUI Key": "344",
+      "GUI Style": "New"
+    }
+  },
+  "Theme": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Accent Red": "1.0",
+      "Accent Green": "0.27",
+      "Accent Blue": "0.27"
+    }
+  },
+  "Discord Presence": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {
+      "Status": "Playing DClient"
+    }
+  },
+  "Self Destruct": {
+    "enabled": false,
+    "bind": -1,
+    "settings": {}
+  }
+}
