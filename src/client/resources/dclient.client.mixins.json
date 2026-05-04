@@ -1,0 +1,24 @@
+{
+    "required": true,
+    "package": "com.dclient.client.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "MixinGameRenderer",
+        "MixinLocalPlayer",
+        "MixinMinecraft",
+        "MixinClientLevel",
+        "MixinCamera",
+        "MixinLevelRenderer",
+        "MixinEntity",
+        "MixinMouseHandler",
+        "MixinLivingEntity",
+        "MixinClientPacketListener",
+        "MixinMultiPlayerGameMode",
+        "MixinBlockRenderDispatcher",
+        "MixinItemInHandRenderer",
+        "MixinPlayer"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "com.dclient.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "MixinMinecraftServer"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "dclient",
+	"version": "${version}",
+	"name": "DClient",
+	"description": "DClient utility mod",
+	"authors": ["dclient"],
+	"license": "MIT",
+	"accessWidener": "dclient.accesswidener",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.dclient.DClient"],
+		"client": ["com.dclient.client.DClientClient"]
+	},
+	"mixins": [
+		"dclient.mixins.json",
+		{
+			"config": "dclient.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
